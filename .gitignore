@@ -1,0 +1,36 @@
+# Don't track content of these folders #
+########################################
+*/1_project_management/*
+*/2_ethics_governance/*
+*/*raw_data/*
+*/*processed_data/*
+
+# Ignore all logs #
+###################
+*.log
+
+# Ignore pickled data
+#####################
+*.pkl
+
+# credentials #
+###############
+*.env
+*secret*
+
+# Ignore checkpoints #
+######################
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# R Stuff #
+###########
+*.Rproj.user
+*.Rhistory
+*.DS_Store
+.Rproj.user
+
+# Ignore large files #
+######################
+*.zip
+*.pkl
