@@ -1,0 +1,22 @@
+{
+    "data[0][name]": "five-item-ambition-survey_2_options",
+    "data[0][options]": "Not at all like me:1| Not much like me: 2| Somewhat like me:3| Mostly like me: 4| Very much like me: 5",
+    "data[0][text]": "I aim to be the best in the world at what I do.",
+    "data[0][value]": "2",
+    "data[1][name]": "five-item-ambition-survey_3_options",
+    "data[1][options]": "Not at all like me:1| Not much like me: 2| Somewhat like me: 3| Mostly like me: 4| Very much like me: 5",
+    "data[1][text]": "I am ambitious.",
+    "data[1][value]": "3",
+    "data[2][name]": "five-item-ambition-survey_4_options",
+    "data[2][options]": "Not at all like me:1| Not much like me: 2| Somewhat like me:3| Mostly like me: 4| Very much like me: 5",
+    "data[2][text]": "Achieving something of lasting importance is the highest goal in life.",
+    "data[2][value]": "3",
+    "data[3][name]": "five-item-ambition-survey_5_options",
+    "data[3][options]": "Not at all like me:1| Not much like me: 2| Somewhat like me:3| Mostly like me: 4| Very much like me: 5",
+    "data[3][text]": "I think achievement is overrated.",
+    "data[3][value]": "4",
+    "data[4][name]": "five-item-ambition-survey_6_options",
+    "data[4][options]": "Not at all like me:1| Not much like me: 2| Somewhat like me:3| Mostly like me: 4| Very much like me: 5",
+    "data[4][text]": "I am driven to succeed.",
+    "data[4][value]": "3"
+}
