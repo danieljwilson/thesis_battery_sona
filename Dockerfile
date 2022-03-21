@@ -36,41 +36,13 @@ RUN apt-get clean          # tests, mysql,  postgres
 ########################################
 
 
-LABEL EXPERIMENT_five-item-ambition-survey /scif/apps/five-item-ambition-survey
-WORKDIR /scif/apps
-RUN expfactory install https://github.com/expfactory-experiments/five-item-ambition-survey
-
-LABEL EXPERIMENT_boredom-proneness-scale-short-survey /scif/apps/boredom-proneness-scale-short-survey
-WORKDIR /scif/apps
-RUN expfactory install https://github.com/expfactory-experiments/boredom-proneness-scale-short-survey
-
-LABEL EXPERIMENT_brief-sensation-seeking-survey /scif/apps/brief-sensation-seeking-survey
-WORKDIR /scif/apps
-RUN expfactory install https://github.com/expfactory-experiments/brief-sensation-seeking-survey
-
-LABEL EXPERIMENT_affective-conflict-resolution-task /scif/apps/affective-conflict-resolution-task
-WORKDIR /scif/apps
-RUN expfactory install https://github.com/JuneOh710/affective-conflict-resolution-task
-
 LABEL EXPERIMENT_berlin-numeracy-test /scif/apps/berlin-numeracy-test
 WORKDIR /scif/apps
 RUN expfactory install https://github.com/JuneOh710/berlin-numeracy-test
 
-LABEL EXPERIMENT_cognitive-estimation-test /scif/apps/cognitive-estimation-test
-WORKDIR /scif/apps
-RUN expfactory install https://github.com/JuneOh710/cognitive-estimation-test
-
-LABEL EXPERIMENT_effort-avoidance-task /scif/apps/effort-avoidance-task
-WORKDIR /scif/apps
-RUN expfactory install https://github.com/JuneOh710/effort-avoidance-task
-
 LABEL EXPERIMENT_jdm-classics /scif/apps/jdm-classics
 WORKDIR /scif/apps
 RUN expfactory install https://github.com/juneoh710/jdm-classics
-
-LABEL EXPERIMENT_psychomotor-vigilance-test /scif/apps/psychomotor-vigilance-test
-WORKDIR /scif/apps
-RUN expfactory install https://github.com/JuneOh710/psychomotor-vigilance-test
 
 
 
