@@ -1,0 +1,15 @@
+{
+    "name": "SONA ID Entry",
+    "template": "survey",
+    "exp_id": "sona-id-entry",
+    "url": "https://github.com/expfactory-experiments/sona-id-entry",
+    "cognitive_atlas_task_id": "",
+    "contributors": [
+        "Daniel J Wilson",
+        "Vanessa Sochat"
+    ],
+    "time": 1,
+    "reference": "https://www.sona-systems.com/default.aspx",
+    "description": "Experiment Factory survey",
+    "instructions": "Please enter your SONA ID number:"
+}
