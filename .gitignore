@@ -1,9 +1,10 @@
 # Don't track content of these folders #
 ########################################
-*/1_project_management/*
-*/2_ethics_governance/*
-*/*raw_data/*
-*/*processed_data/*
+*/expfactory/*
+
+# Ignore participant lists #
+############################
+*participants*.tsv
 
 # Ignore all logs #
 ###################
